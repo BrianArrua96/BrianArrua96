@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+        <h1>Bienvenido a mi portafolio</h1>
+        <p>Mi nombre es Brian Tobias Arrua Dominguez,nacido en el pais de paraguay de latinoameriaca</p>
+        <img src="https://commons.wikimedia.org/wiki/File:Flag_of_Paraguay.svg">
 <!--
 **BrianArrua96/BrianArrua96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
