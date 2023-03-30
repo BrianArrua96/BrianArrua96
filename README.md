@@ -52,8 +52,8 @@
                     </div>
                      <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Colegio Salesians Terrassa</h3>
-                            <div class="subheading mb-3">Título de Grado Medio de Informatica</div>
+                            <h3 class="mb-0">Institut Nicolau Copèrnic, España</h3>
+                            <div class="subheading mb-3">Título de Grado Medio de Sistemas microinformaticos y redes</div>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">2022</span></div>
                     </div>
