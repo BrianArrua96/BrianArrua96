@@ -25,7 +25,7 @@
             <section class="resume-section" id="about">
                 <div class="resume-section-content">
                     <h1 class="mb-0">
-                        Brian
+                        Brian Tobias
                         <span class="text-primary">Arrua Dominguez</span>
                     </h1>
                     <p class="lead mb-5">Estudiant d'Informàtica cursant el Cicle Formatiu de Grau Superior (FP) en Desenvolupament d'Aplicacions Web l'Institut Nicolau Copèrnic de Terrassa.</p>
@@ -57,6 +57,12 @@
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">2020-2022</span></div>
                     </div>
+                </div>
+            </section>
+            <section class="resume-section" id="Linkedin">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Linkedin</h2>
+                    <div class="subheading mb-3"><a href="https://www.linkedin.com/in/brian-tobias-arrua-dominguez-3b5395235/">Linkedin</a></div>
                 </div>
             </section>
             <hr class="m-0" />
